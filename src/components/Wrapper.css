@@ -1,0 +1,19 @@
+.wrapper {
+  padding: 1rem;
+  border-radius: 1rem;
+  max-width: 312px;
+
+  /* background: linear-gradient(
+    150deg,
+    #28313b,
+    #2a333d,
+    #2e3842,
+    #343e4a,
+    #3b4652,
+    #414d59,
+    #46525f,
+    #485461
+  ); */
+  background-color: #fff;
+  box-shadow: 0 1rem 5rem rgb(17 0 102 / 16%);
+}
